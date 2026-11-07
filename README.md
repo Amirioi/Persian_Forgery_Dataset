@@ -21,7 +21,7 @@ dataset/
 ├── train/
 │   ├── original/     # تصاویر سالم  (orig_0001.png)
 │   ├── tampered/     # تصاویر جعلی  (tamp_0001_01.png)
-│   └── masks/        # ماسک متناظر  (tamp_0001_01.png)
+│   └── masks/        # ماسک متناظر  (mask_0001_01.png)
 ├── val/
 │   ├── original/
 │   ├── tampered/
